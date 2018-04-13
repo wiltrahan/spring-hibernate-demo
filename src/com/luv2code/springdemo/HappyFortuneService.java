@@ -8,4 +8,10 @@ public class HappyFortuneService implements FortuneService {
 		return "Today is your lucky day!";
 	}
 
+	@Override
+	public String getRandomFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
